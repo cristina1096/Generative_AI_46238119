@@ -1,3 +1,3 @@
 # AI_Research
 
-put some stuff - all data for the project
+This project investigate AI research methods.
